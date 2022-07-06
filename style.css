@@ -1,0 +1,35 @@
+/*
+Theme Name:zboom
+Theme Uri:http://softtech.com
+Author Name:Tushar
+Author Uri:http://softtech.com
+description:It's a simple wordpress site
+version:1.0
+tags:music,songs,simple wordpess theme
+textdomain:zboom
+
+
+
+
+
+
+
+*/
+
+.comment .comment-author img{ height:30px; width:30px;}
+
+
+
+
+.right-sidebar ul{ margin-left:0px !important; padding-left:20px; background:#1e1e1e;}
+
+
+div.wpcf7 img.ajax-loader {
+    border: none;
+    vertical-align: middle;
+    margin-left: 4px;
+    height: 30px;
+    width: 30px;
+}
+
+.image{ height:200px; width:200px; border-radius:50%;}
